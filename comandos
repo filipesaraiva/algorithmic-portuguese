@@ -5,4 +5,7 @@
 \renewcommand{\algorithmicend}{\textbf{fim}}
 \renewcommand{\algorithmicforall}{\textbf{para todo}}
 \renewcommand{\algorithmicfor}{\textbf{para}}
+\renewcommand{\algorithmicif}{\textbf{se}}
+\renewcommand{\algorithmicthen}{\textbf{então}}
+\renewcommand{\algorithmicand}{\textbf{e}}
 
