@@ -8,4 +8,5 @@
 \renewcommand{\algorithmicif}{\textbf{se}}
 \renewcommand{\algorithmicthen}{\textbf{então}}
 \renewcommand{\algorithmicand}{\textbf{e}}
+\renewcommand{\algorithmicor}{\textbf{ou}}
 
