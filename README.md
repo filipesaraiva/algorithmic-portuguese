@@ -4,9 +4,9 @@ na criação de algoritmos pelo pacote LaTeX [`algorithmic`]
 (https://www.ctan.org/pkg/algorithms).
 
 ## Como usar
-Salve o arquivo [algorithmic-portuguese.tex](https://gitlab.com/filipesaraiva/
-algorithmic-portuguese/raw/master/algorithmic-portuguese.tex) na pasta do seu
-projeto.
+Salve o arquivo [algorithmic-portuguese.tex]
+(https://gitlab.com/filipesaraiva/algorithmic-portuguese/raw/master/algorithmic-portuguese.tex)
+na pasta do seu projeto.
 
 A seguir, após carregar o pacote `algorithmic` e antes de iniciar o texto do
 documento LaTeX, insira o comando `\input{algorithmic-portuguese}`, como abaixo:
@@ -20,9 +20,9 @@ documento LaTeX, insira o comando `\input{algorithmic-portuguese}`, como abaixo:
 ```
 
 Os comandos LaTeX a serem utilizados serão os mesmos apresentados no [manual do
-pacote algorithms (PDF)](http://mirrors.ctan.org/macros/latex/contrib/
-algorithms/algorithms.pdf). Apenas a apresentação dos algoritmos no documento
-gerado será feita em português.
+pacote algorithms (PDF)]
+(http://mirrors.ctan.org/macros/latex/contrib/algorithms/algorithms.pdf). Apenas
+a apresentação dos algoritmos no documento gerado será feita em português.
 
 ## Licença
 
